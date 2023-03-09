@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Portfolio</title>
+	<style>
+		body {
+			background-color: #FFFFFF;
+			color: #171717;
+			font-family: 'Poppins', sans-serif;
+		}
+	</style>
+</head>
+<body>
+	<h1>My work</h1>
+	<h2>Specads</h2>
+	<ul>
+		<li>Durex
+			<ul>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_dhandewalabanda-activity-6930177303914196994-a9Lz?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #dhandewalabanda</a></li>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_dhandewalabanda-activity-6930132036267433984-R0sw?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #dhandewalabanda | 22 comments</a></li>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_dhandewalabanda-activity-6930116866891755520-8ZOT?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #dhandewalabanda</a></li>
+			</ul>
+		</li>
+		<li>Blinkit
+			<ul>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_palak-jhapakte-hi-delivery-activity-7015873261154525184-9W-M?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: Palak jhapakte hi delivery</a></li>
+			</ul>
+		</li>
+		<li>Mankind Pharma
+			<ul>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_my-specad-got-featured-activity-6945204538282758144-41N1?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: My specad got featured 🥳 | 66 comments</a></li>
+			</ul>
+		</li>
+		<li>Zepto
+			<ul>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_specad-dhandewalabanda-activity-6943057284872691712-h94c?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #specad #dhandewalabanda</a></li>
+			</ul>
+		</li>
+		<li>Ikea
+			<ul>
+				<li><a href="https://www.linkedin.com/posts/kaushikkulkarnii_specad-dhandewalabanda-activity-6940188383285514240-14U5?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #specad #dhandewalabanda</a></li>
+            </ul>
+        </li>
+        <li>Memes
+            <ul>
+                <a href="https://www.linkedin.com/posts/kaushikkulkarnii_dhandewalabanda-activity-7026015461871861760-Eye3?utm_source=share&utm_medium=member_desktop">Kaushik Kulkarni - Social Media Marketer on LinkedIn: #specad #dhandewalabanda</a>
+        </li>
+    </ul>
+</body>
+</html>
